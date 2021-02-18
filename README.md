@@ -1,2 +1,2 @@
 # faceRec 
-for face recognition with python 
+For face recognition with python 
