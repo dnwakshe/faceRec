@@ -1,2 +1,3 @@
 # faceRec 
-For face recognition with python 
+For face recognition with python and have downloaded on my laptop.l
+
