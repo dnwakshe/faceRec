@@ -5,7 +5,8 @@
 OpenCV <br>
 numpy <br>
 face_recognition <br>
-os datetime // for taking attendance  <br>
+os <br>
+datetime // for taking attendance  <br>
 
 
 
